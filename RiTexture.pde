@@ -1,0 +1,4 @@
+enum RiTexture {
+  CHEWY,
+  CREAMY
+}
